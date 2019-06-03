@@ -15,12 +15,19 @@ Project build on C with MinilibX Library.
 # Hot to use? 
 
 Arrows       - rotate fractal.
-+            - increase number of iterations.
--            - reduce number of iterations.
+
+'+'            - increase number of iterations.
+
+'-'            - reduce number of iterations.
+
 1-5          - change colors.
+
 Left mouse   - zoom in.
+
 Rithg mouse  - zoom out.
+
 Enter        - restore start properties.
+
 
 # Screenshots
 
